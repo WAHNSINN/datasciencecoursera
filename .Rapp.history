@@ -1,0 +1,4 @@
+read HelloWorld.md
+read HelloWorld
+read(HelloWorld)
+read(HelloWorld.md)
